@@ -1,2 +1,3 @@
 # BudgetBoss
-BudgetBoss - The Expense Tracker Application is a C-based program designed to help users log, categorize, and analyse their daily expenses.
+BudgetBoss - The Expense Tracker Application<br>It is a C-based program designed to help users log, categorize, and analyse their daily expenses.<br>
+The Expense Data Management module allows users to log daily expenses, categorize them (e.g., food, transportation, rent), and store them using structures and dynamic memory allocation (DMA).<br>The Expense Calculation module computes monthly totals, enables users to filter expenses by category, and provides insights into spending trends.<br>The File Operations and Reporting module ensures expense data is stored securely in a file and generates formatted reports summarizing expenses for future reference.
